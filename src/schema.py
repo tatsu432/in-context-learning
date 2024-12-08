@@ -12,7 +12,6 @@ from quinine import (
 )
 from funcy import merge
 
-
 model_schema = {
     "family": merge(tstring, allowed(["gpt2", "lstm"])),
     "n_positions": merge(tinteger, required),  # maximum context length
