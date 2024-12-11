@@ -24,3 +24,6 @@ You can start by cloning our repository and following the steps below.
     ```
 
 3. Please look at the ```in-context-learning/src/my_tf_eval.ipynb``` to reproduce the experiments as well as additional experiments to check the in-context learning ability to perform logistic regression of the transformer pretrained on various tasks
+
+
+![The result of the in-context learning ability of the transformer pretrained on the linear regression task](pic/tf_linear.png "The result of the in-context learning ability of the transformer pretrained on the linear regression task")
