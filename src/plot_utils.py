@@ -17,7 +17,7 @@ relevant_model_names = {
         "3-Nearest Neighbors",
         "Averaging",
     ],
-    "sparse_linear_regression": [
+    "sparse_linear_regression": [ 
         "Transformer",
         "Least Squares",
         "3-Nearest Neighbors",

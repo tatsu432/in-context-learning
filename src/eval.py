@@ -13,7 +13,7 @@ import models
 from samplers import get_data_sampler, sample_transformation
 from tasks import get_task_sampler
 
-
+ 
 def get_model_from_run(run_path, step=-1, only_conf=False):
     config_path = os.path.join(run_path, "config.yaml")
     with open(config_path) as fp:  # we don't Quinfig it to avoid inherits
@@ -158,7 +158,7 @@ def eval_model(
     num_eval_examples=1280,
     batch_size=64,
     data_sampler_kwargs={},
-    task_sampler_kwargs={},
+    task_sampler_kwargs={}, 
 ):
     """
     Evaluate a model on a task with a variety of strategies.
