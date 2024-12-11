@@ -23,4 +23,4 @@ You can start by cloning our repository and following the steps below.
     unzip models.zip
     ```
 
-3. Please look at the in-context-learning/src/my_tf_eval.ipynb to reproduce the experiments as well as additional experiments to check the in-context learning ability to perform logistic regression of the transformer pretrained on various tasks
+3. Please look at the ```in-context-learning/src/my_tf_eval.ipynb``` to reproduce the experiments as well as additional experiments to check the in-context learning ability to perform logistic regression of the transformer pretrained on various tasks
