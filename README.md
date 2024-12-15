@@ -4,7 +4,7 @@ This repository contains reproduction and additional experiments for the followi
 *Shivam Garg\*, Dimitris Tsipras\*, Percy Liang, Gregory Valiant* <br>
 Paper: http://arxiv.org/abs/2208.01066 <br><br>
 
-
+My contribution is ```my_tf_eval.ipynb```. The other files are from Garg et al (2022).
 
 ## Getting started
 You can start by cloning our repository and following the steps below.
